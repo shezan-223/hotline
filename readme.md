@@ -14,6 +14,3 @@ querySelectorAll means it gives all matching elements
 (4)Event Delegation  means we put addlistener to the parents so that the code becomes short .
 
 
-(5)preventDefault it stop the browser to reload 
-and
-stopPropagation means it stop event bubbling to the parents
